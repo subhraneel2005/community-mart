@@ -1,5 +1,5 @@
 {
-  "name": "smart-contrats",
+  "name": "smart-contracts",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,8 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.22.13"
+  },
+  "dependencies": {
+    "ethers": "^6.13.3"
   }
 }
